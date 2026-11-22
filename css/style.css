@@ -1,4 +1,7 @@
 /* Custom Properties */
+html {
+      scroll-behavior: smooth;
+    }
 :root {
     --primary-color: #143D59; /* Deep Slate Blue */
     --primary-hover: #102e42;
